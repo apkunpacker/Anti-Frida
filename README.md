@@ -158,3 +158,5 @@ function hook(input) {
 }
 ```
 ![158595324-a3d0e31f-5a0d-41ff-8286-963c0af610f7](https://user-images.githubusercontent.com/27184655/170197700-4b285080-6c95-4681-b271-cb7e5fb1be6e.jpg)
+
+Note - Neither Stalker trigger this detection nor in the case when we intercept on very next address
