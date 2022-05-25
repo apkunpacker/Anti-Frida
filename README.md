@@ -121,6 +121,7 @@ and a PoC app is available at
 https://github.com/apkunpacker/Frida-Detection/blob/main/Hook%20Detect.apk
 
 with code ( tested was on armv7 version of gadget so libc instruction are also according to that , you guys can repeat for arm64 like above)
+
 when code is used inside as a app , frida change instructions from 1st place 
 
 ```sh
