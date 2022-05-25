@@ -1,2 +1,2 @@
-# Frida-Bypass
-Some Of Anti-Anti-Frida Stuff 
+Some Techniques to Detect Frida
+ 
